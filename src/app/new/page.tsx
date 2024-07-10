@@ -28,7 +28,7 @@ export default function NewPostPage() {
                 <div>
                     <label className="">Category</label>
                     <select name="category" id="category">
-                        <option value="0">Ingresa una opcion</option>
+                        <option value="0">Ingresa una opcion HOLA MUNDO</option>
                         <option id="cars">Cars</option>
                         <option id="electronics">Electronics</option>
                         <option id="properties">Properties</option>
